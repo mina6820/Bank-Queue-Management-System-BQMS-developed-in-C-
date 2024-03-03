@@ -1,0 +1,5 @@
+﻿  Bank Queue Management System.cpp
+H:\ITI\9- OOP in C++\Projects\Mina Medhat\Bank Queue Management System\Bank.h(36,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20Queue%20Management%20System.cpp')
+  
+  Bank Queue Management System.vcxproj -> H:\ITI\9- OOP in C++\Projects\Mina Medhat\x64\Debug\Bank Queue Management System.exe

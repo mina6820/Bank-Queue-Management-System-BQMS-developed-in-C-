@@ -1,0 +1,5 @@
+customer 1: arrival 20 service 30 type regular
+customer 2: arrival 22 service 50 type regular
+customer 3: arrival 39 service 60 type regular
+customer 4: arrival 39 service 120 type vip
+customer 5: arrival 55 service 33 type vip
